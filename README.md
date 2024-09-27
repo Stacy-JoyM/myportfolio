@@ -23,9 +23,9 @@ HTML, CSS , Fontawesome icons, GIT
 
 ## Support and contact details
 email :: joy.muthoka@student.moringaschool.com
-
 ### License
-*LIcenced under the [MT-licence](https://github.com/Stacy-JoyM/myportfolio/blob/master/LICENSE)*
+*LIcenced under the [MT-licence](https://github.com/Stacy-JoyM/myportfolio/blob/main/LICENSE)*
 
 Copyright (c) 2024 **Joy Muthoka**
+
 
