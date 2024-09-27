@@ -1,7 +1,6 @@
 *{
     margin:0;
     padding:0;
-
 }
 
 #nav {
@@ -91,7 +90,7 @@ button#contact:hover{
 } */
 .paragraph{
     text-align:center;
-    padding:100px;
+    padding-top:150px;
     margin-right:450px;
     
 }
@@ -102,7 +101,7 @@ button#contact:hover{
 }
 
 .heading2{
-    font-size:24px;
+    font-size:20px;
     font-weight:lighter;
 
 }
@@ -114,7 +113,7 @@ button#contact:hover{
 }
 
 .intro-para{
-    margin-top:80px;
+    margin-top:30px;
     margin-bottom:30px;
     font-size:24px;
 }
@@ -125,8 +124,23 @@ button#contact:hover{
     display:flex;
     flex-direction:column;
     justify-content:space-around;
+    background-color: #F4F1FE;
+    
 }
 
+#about-paragraph h2{
+  font-size: 28px;
+  text-align:center;
+  padding:15px;
+
+}
+
+#about-paragraph p{
+  font-size: 20px;
+  padding:0px 50px;
+  
+
+}
 .about-image{
     width: 400px;
     height:400px;
@@ -139,6 +153,10 @@ button#contact:hover{
     justify-content:space-around;
 }
 
+ul.list-class{
+  list-style:none; 
+
+}
 .about-button {
     text-align:center;
 
